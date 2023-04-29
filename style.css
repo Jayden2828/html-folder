@@ -1,0 +1,21 @@
+ table,
+ th,
+ td {
+     border-left: 1px solid green;
+     border-right: 1px solid red;
+     border-top: 1px solid blue;
+     border-bottom: 1px solid gray;
+     border-width: 1px;
+     border-style: solid;
+     border-left-color: green;
+     border-right-color: red;
+     border-top-color: blue;
+     border-bottom-color: gray;
+     background-color: rgb(255, 255, 255);
+ }
+
+ th,
+ td {
+     border: 1px solid black;
+     border-radius: 10px;
+ }
